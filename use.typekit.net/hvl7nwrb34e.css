@@ -1,0 +1,80 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * garamond-premier-pro-display:
+ *   - http://typekit.com/eulas/00000000000000003b9ade33
+ *   - http://typekit.com/eulas/00000000000000003b9ade37
+ *   - http://typekit.com/eulas/00000000000000003b9ade39
+ * neue-haas-grotesk-display:
+ *   - http://typekit.com/eulas/00000000000000007735bb48
+ *   - http://typekit.com/eulas/00000000000000007735bb5a
+ *   - http://typekit.com/eulas/00000000000000007735bb5e
+ *   - http://typekit.com/eulas/00000000000000007735bb62
+ *   - http://typekit.com/eulas/00000000000000007735bb67
+ *   - http://typekit.com/eulas/00000000000000007735bb6a
+ *
+ * © 2009-2026 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2023-08-28 21:03:52 UTC"}*/
+
+@import url("../p.typekit.net/paebf.css?s=1&amp;k=hvl7nwr&amp;ht=tk&amp;f=6825.6827.6829.39494.39496.39497.39498.39499.39500&amp;a=85670950&amp;app=typekit&amp;e=css");
+
+@font-face {
+font-family:"garamond-premier-pro-display";
+src:url("af/9f2fb4/00000000000000003b9ade33/27/l3eab?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n3&amp;v=3") format("woff2"),url("af/9f2fb4/00000000000000003b9ade33/27/d3eab?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n3&amp;v=3") format("woff"),url("af/9f2fb4/00000000000000003b9ade33/27/a3eab?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n3&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"garamond-premier-pro-display";
+src:url("af/8aee92/00000000000000003b9ade37/27/le003?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n5&amp;v=3") format("woff2"),url("af/8aee92/00000000000000003b9ade37/27/de003?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n5&amp;v=3") format("woff"),url("af/8aee92/00000000000000003b9ade37/27/ae003?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n5&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"garamond-premier-pro-display";
+src:url("af/6f119d/00000000000000003b9ade39/27/l5bba?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n6&amp;v=3") format("woff2"),url("af/6f119d/00000000000000003b9ade39/27/d5bba?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n6&amp;v=3") format("woff"),url("af/6f119d/00000000000000003b9ade39/27/a5bba?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n6&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"neue-haas-grotesk-display";
+src:url("af/2807c7/00000000000000007735bb48/30/le196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff2"),url("af/2807c7/00000000000000007735bb48/30/de196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff"),url("af/2807c7/00000000000000007735bb48/30/ae196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"neue-haas-grotesk-display";
+src:url("af/1ba16c/00000000000000007735bb5a/30/le003?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n5&amp;v=3") format("woff2"),url("af/1ba16c/00000000000000007735bb5a/30/de003?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n5&amp;v=3") format("woff"),url("af/1ba16c/00000000000000007735bb5a/30/ae003?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n5&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"neue-haas-grotesk-display";
+src:url("af/6c4da4/00000000000000007735bb5e/30/laf99?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=i5&amp;v=3") format("woff2"),url("af/6c4da4/00000000000000007735bb5e/30/daf99?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=i5&amp;v=3") format("woff"),url("af/6c4da4/00000000000000007735bb5e/30/aaf99?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=i5&amp;v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"neue-haas-grotesk-display";
+src:url("af/153042/00000000000000007735bb62/30/l5bba?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n6&amp;v=3") format("woff2"),url("af/153042/00000000000000007735bb62/30/d5bba?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n6&amp;v=3") format("woff"),url("af/153042/00000000000000007735bb62/30/a5bba?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n6&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"neue-haas-grotesk-display";
+src:url("af/8a7571/00000000000000007735bb67/30/l1f8b?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=i6&amp;v=3") format("woff2"),url("af/8a7571/00000000000000007735bb67/30/d1f8b?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=i6&amp;v=3") format("woff"),url("af/8a7571/00000000000000007735bb67/30/a1f8b?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=i6&amp;v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"neue-haas-grotesk-display";
+src:url("af/384d9b/00000000000000007735bb6a/30/l652f?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3") format("woff2"),url("af/384d9b/00000000000000007735bb6a/30/d652f?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3") format("woff"),url("af/384d9b/00000000000000007735bb6a/30/a652f?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+.tk-garamond-premier-pro-display { font-family: "garamond-premier-pro-display",serif; }
+.tk-neue-haas-grotesk-display { font-family: "neue-haas-grotesk-display",sans-serif; }
