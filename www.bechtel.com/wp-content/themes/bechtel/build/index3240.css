@@ -235,7 +235,7 @@ a:not([class]) {
 }
 a:not([class]):hover {
   --tw-text-opacity: 1;
-  color: rgb(148 2 0 / var(--tw-text-opacity, 1));
+  color: rgb(10 122 53 / var(--tw-text-opacity, 1));
 }
 strong {
   font-weight: 700;
@@ -366,7 +366,7 @@ h1 strong, h2 strong, h3 strong, h4 strong, h5 strong, h6 strong {
 }
 .cookie-consent__btn {
   --tw-bg-opacity: 1;
-  background-color: rgb(220 5 0 / var(--tw-bg-opacity, 1));
+  background-color: rgb(15 157 70 / var(--tw-bg-opacity, 1));
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity, 1));
   border-radius: 0.375rem;
@@ -390,7 +390,7 @@ h1 strong, h2 strong, h3 strong, h4 strong, h5 strong, h6 strong {
 .cookie-consent__btn:focus-visible,
     .cookie-consent__btn:hover {
   --tw-bg-opacity: 1;
-  background-color: rgb(148 2 0 / var(--tw-bg-opacity, 1));
+  background-color: rgb(10 122 53 / var(--tw-bg-opacity, 1));
 }
 .cookie-consent__close {
     --size: 1.75rem;
@@ -402,7 +402,7 @@ h1 strong, h2 strong, h3 strong, h4 strong, h5 strong, h6 strong {
     border-radius: 9999px;
     border-style: none;
     --tw-bg-opacity: 1;
-    background-color: rgb(220 5 0 / var(--tw-bg-opacity, 1));
+    background-color: rgb(15 157 70 / var(--tw-bg-opacity, 1));
     --tw-text-opacity: 1;
     color: rgb(255 255 255 / var(--tw-text-opacity, 1));
     width: var(--size);
@@ -718,7 +718,7 @@ body.home .hero__title {
 .hero__slide-link {
   background-color: var(--wp--preset--color--bechtel-red-faded);
   --tw-text-opacity: 1;
-  color: rgb(148 2 0 / var(--tw-text-opacity, 1));
+  color: rgb(10 122 53 / var(--tw-text-opacity, 1));
   margin-left: auto;
   display: flex;
   align-items: center;
@@ -1458,7 +1458,14 @@ body:not(.no-hero) .banner--top:not(:hover) .hamburger__line {
   align-items: center;
   justify-content: center;
   height: 4rem;
-  width: 4rem;
+  min-width: 4rem;
+  padding-inline: 0.5rem;
+}
+.banner__home img.logo {
+  display: block;
+  width: 80px;
+  height: 48px;
+  object-fit: contain;
 }
 .banner__home svg {
   display: block;
@@ -1586,7 +1593,7 @@ body:not(.no-hero) .banner--top:not(:hover) .hamburger__line {
 }
 .megasearch__form:hover .megasearch__icon {
   --tw-text-opacity: 1;
-  color: rgb(220 5 0 / var(--tw-text-opacity, 1));
+  color: rgb(15 157 70 / var(--tw-text-opacity, 1));
 }
 .megasearch__input {
   flex: 1 1 0%;
@@ -2140,7 +2147,7 @@ body:not(.no-hero) .banner--top:not(:hover) .hamburger__line {
 }
 .nav--secondary .nav__link[data-depth="0"]:hover {
   --tw-text-opacity: 1;
-  color: rgb(148 2 0 / var(--tw-text-opacity, 1));
+  color: rgb(10 122 53 / var(--tw-text-opacity, 1));
 }
 .nav--secondary .nav__link[data-depth="1"] {
   padding-top: 0.5rem;
@@ -2151,7 +2158,7 @@ body:not(.no-hero) .banner--top:not(:hover) .hamburger__line {
 }
 .nav--secondary .nav__link[data-depth="1"]:hover {
   --tw-text-opacity: 1;
-  color: rgb(220 5 0 / var(--tw-text-opacity, 1));
+  color: rgb(15 157 70 / var(--tw-text-opacity, 1));
 }
 .nav--secondary .nav__link:focus {
   outline-width: 2px;
@@ -2224,7 +2231,7 @@ body:not(.no-hero) .banner--top:not(:hover) .hamburger__line {
 }
 .meganav-header__link:hover {
   --tw-text-opacity: 1;
-  color: rgb(148 2 0 / var(--tw-text-opacity, 1));
+  color: rgb(10 122 53 / var(--tw-text-opacity, 1));
 }
 .meganav-header__icon {
   }
@@ -2601,12 +2608,12 @@ body.no-hero .breadcrumbs {
 }
 .breadcrumbs__item > a:hover, .breadcrumbs__separator > a:hover {
   --tw-text-opacity: 1;
-  color: rgb(220 5 0 / var(--tw-text-opacity, 1));
+  color: rgb(15 157 70 / var(--tw-text-opacity, 1));
   text-decoration-line: underline;
 }
 .breadcrumbs__item--current, .breadcrumbs__separator--current {
   --tw-text-opacity: 1;
-  color: rgb(220 5 0 / var(--tw-text-opacity, 1));
+  color: rgb(15 157 70 / var(--tw-text-opacity, 1));
 
       max-width: 75ch;
 
@@ -3860,7 +3867,7 @@ body.single.single-events #main > .post-meta:first-child {
   height: 2.5rem;
   width: 2.5rem;
     border-radius: 999px !important;
-    background-color: #FFC8C7 !important;
+    background-color: #7CC242 !important;
 }
 .sharer__btn path { fill: #D91E18 !important; }
 .sharer__btn {
